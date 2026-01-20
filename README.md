@@ -51,7 +51,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊Harish D's GitHub Stats:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harishd3504-oss&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harishd3504-oss&theme=github_dark&utcOffset=5.5" />
