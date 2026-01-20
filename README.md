@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact: **I love exploring new tech and building projects from scratch 🚀**
 
-🌐 **Portfolio:** https://hari-port-kguw.vercel.app/  
+🌐 **Portfolio:** https://react-port-eta-silk.vercel.app/
 🔗 **GitHub:** https://github.com/harishd3504-oss  
 
 ---
