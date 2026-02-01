@@ -38,8 +38,8 @@
 <tr>
 <td align="center">
 
-🌐 **Portfolio** 👉 https://react-port-eta-silk.vercel.app/  
-🔗 **GitHub** 👉 https://github.com/harishd3504-oss  
+🌐 <b>Portfolio</b> 👉 https://react-port-eta-silk.vercel.app/  
+🔗 <b>GitHub</b> 👉 https://github.com/harishd3504-oss  
 
 </td>
 </tr>
@@ -71,18 +71,28 @@
 
 <hr/>
 
-## 📊 Most Used Languages 📈
+## 🧠 Technical Proficiency 🛠️
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishd3504-oss&layout=compact&theme=github_dark&langs_count=8&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
+- 🟦 **Python** ▰▰▰▰▰▰▰▱▱▱ (70%)
+- 🟨 **JavaScript** ▰▰▰▰▰▰▱▱▱▱ (60%)
+- 🟥 **HTML / CSS** ▰▰▰▰▰▰▰▰▱▱ (80%)
+- 🟩 **React** ▰▰▰▰▰▱▱▱▱▱ (50%)
+- 🟪 **MySQL** ▰▰▰▰▰▰▱▱▱▱ (60%)
+- 🛡️ **Cyber Security Basics** ▰▰▰▰▰▱▱▱▱▱ (50%)
 
 <hr/>
 
-## 📈 GitHub Statistics 📌
+## 🚀 Skills in Action 🔥
+
+- 🔐 **Cyber Security:** Secure login systems, encryption & decryption, password strength validation
+- 🌐 **Full Stack Development:** React frontend integrated with backend logic
+- 🤖 **AI Tools:** Speech & text analysis for scam detection projects
+- 🗄️ **Database Management:** MySQL for user authentication and project data
+- 🧰 **Version Control:** Git & GitHub for collaborative development
+
+<hr/>
+
+## 📊 GitHub Statistics 📌
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harishd3504-oss&theme=github_dark" />
