@@ -38,7 +38,7 @@
 <tr>
 <td align="center">
 
-🌐 <b>Portfolio</b> 👉  https://699965fd8418dbb4f3ada42e--relaxed-halva-2b7d4a.netlify.app/
+🌐 <b>Portfolio</b> 👉  https://brilliant-naiad-b0ae2c.netlify.app/
 🔗 <b>GitHub</b> 👉 https://github.com/harishd3504-oss  
 
 </td>
