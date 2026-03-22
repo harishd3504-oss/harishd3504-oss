@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- 🇮🇳 FULL WIDTH INDIAN FLAG HEADER (BIG TEXT) -->
+<!-- 🇮🇳 FULL WIDTH INDIAN FLAG HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&height=280&section=header&text=HARISH%20D&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=Cyber%20Security%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=65"/>
 
 <!-- ⚡ Typing Animation -->
@@ -51,6 +51,12 @@
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=harishd3504-oss&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishd3504-oss&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=harishd3504-oss&theme=tokyonight&hide_border=true"/>
 
