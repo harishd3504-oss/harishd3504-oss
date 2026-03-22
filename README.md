@@ -1,18 +1,33 @@
 <div align="center">
 
-<!-- 🔥 Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22c55e&height=200&section=header&text=Harish%20D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<!-- 🇮🇳 Indian Flag Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&height=220&section=header&text=HARISH%20D&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35"/>
 
-<h1>👋 Hi, I'm Harish D</h1>
-<h3>🛡️ Cyber Security Engineer | 💻 Full Stack Developer</h3>
+<!-- ✨ GOLDEN NAME (WORKING VERSION) -->
+<h1 align="center">
+  <b>
+    <span style="
+      background: linear-gradient(90deg, #FFD700, #FFC300, #FFB000, #FFD700);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-size: 42px;
+    ">
+      HARISH D
+    </span>
+  </b>
+</h1>
+
+<h3 align="center">🛡️ Cyber Security Engineer | 💻 Full Stack Developer</h3>
 
 <!-- ⚡ Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Cyber+Security+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Building+Secure+Applications;Always+Learning+🚀&duration=4000&pause=1200" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=26&center=true&vCenter=true&width=650&lines=Cyber+Security+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Building+Secure+Applications;Always+Learning+🚀" />
+</p>
 
 <br/>
 
 <!-- 👁️ Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=harishd3504-oss&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=harishd3504-oss&label=Profile%20Views&color=FFD700&style=flat"/>
 
 </div>
 
@@ -74,15 +89,15 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="https://www.instagram.com/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-Social-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black"/>
 </a>
 
 <a href="https://www.facebook.com/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-Network-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-FFD700?style=for-the-badge&logo=facebook&logoColor=black"/>
 </a>
 
 </p>
@@ -91,8 +106,8 @@
 
 <div align="center">
 
-<!-- 🔥 Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:2563eb,100:0f172a&height=120&section=footer"/>
+<!-- 🇮🇳 Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:138808,50:FFFFFF,100:FF9933&height=120&section=footer"/>
 
 <h3>⭐ Thanks for visiting my profile ⭐</h3>
 <p>🚀 Let's build something secure & impactful together</p>
