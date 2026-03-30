@@ -50,15 +50,17 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harishd3504-oss&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- ✅ FIXED stable mirror -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harishd3504-oss&show_icons=true&theme=tokyonight&hide_border=true&v=1"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishd3504-oss&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harishd3504-oss&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=harishd3504-oss&theme=tokyonight&hide_border=true"/>
+<!-- ✅ Stable streak -->
+<img src="https://streak-stats.demolab.com?user=harishd3504-oss&theme=tokyonight&hide_border=true&v=1"/>
 
 </p>
 
@@ -67,7 +69,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishd3504-oss&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishd3504-oss&theme=tokyo-night&hide_border=true&area=true&v=1"/>
 </p>
 
 ---
