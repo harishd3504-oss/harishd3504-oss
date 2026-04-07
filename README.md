@@ -31,7 +31,7 @@
 
 ## 🌐 Portfolio & Links
 
-- 🌍 Portfolio: https://brilliant-naiad-b0ae2c.netlify.app/  
+- 🌍 Portfolio: https://chimerical-alfajores-074d4f.netlify.app/
 - 🔗 GitHub: https://github.com/harishd3504-oss  
 
 ---
