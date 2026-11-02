@@ -1,21 +1,20 @@
+
 <div align="center">
 
-<!-- 🇮🇳 FULL WIDTH INDIAN FLAG HEADER -->
+<!-- 🇮🇳 ANIMATED INDIAN FLAG HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&height=280&section=header&text=HARISH%20D&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=Cyber%20Security%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=65"/>
 
-<!-- ⚡ Typing Animation -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF9933&size=28&center=true&vCenter=true&width=750&lines=Cyber+Security+Enthusiast;Full+Stack+Developer;Building+Secure+Applications;Open+Source+Contributor;Always+Learning+🚀&duration=3500&pause=1000" />
-</p>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF9933&center=true&vCenter=true&width=800&lines=Cyber+Security+Enthusiast;Full+Stack+Developer;Building+Secure+Applications;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80"/>
 
-<!-- 👁️ Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=harishd3504-oss&label=Profile%20Views&color=138808&style=flat"/>
+<br/>
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=harishd3504-oss&label=PROFILE+VIEWS&color=138808&style=for-the-badge"/>
 
 </div>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 👨‍💻 About Me
 
@@ -23,60 +22,35 @@
 - 🌱 Learning **Cyber Security, Full Stack, Python & AI**
 - 👯 Open to **Open Source Collaboration**
 - 🤝 Interested in **Secure Application Design**
-- 💬 Ask me about **HTML, CSS, JS, Python, MySQL, Git**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python & MySQL**
 - 📫 Email: **harishd3504@gmail.com**
-- ⚡ Passion: **Building real-world secure systems**
+- ⚡ Passion: **Building Real-World Secure Systems**
 
 ---
-
-## 🌐 Portfolio & Links
-
-- 🌍 Portfolio: https://chimerical-alfajores-074d4f.netlify.app/
-- 🔗 GitHub: https://github.com/harishd3504-oss  
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,html,css,js,python,php,react,mysql,git,github,linux&theme=dark" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,html,css,js,python,php,react,mysql,git,github,linux&theme=dark"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<!-- ✅ FIXED stable mirror -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harishd3504-oss&show_icons=true&theme=tokyonight&hide_border=true&v=1"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=harishd3504-oss&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harishd3504-oss&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
-
-</p>
-
-<p align="center">
-
-<!-- ✅ Stable streak -->
-<img src="https://streak-stats.demolab.com?user=harishd3504-oss&theme=tokyonight&hide_border=true&v=1"/>
-
-</p>
+</div>
 
 ---
 
-## 📈 Contribution Activity
+## 🔗 Connect With Me
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishd3504-oss&theme=tokyo-night&hide_border=true&area=true&v=1"/>
-</p>
-
----
-
-## 🔗 Connect with Me
-
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-FF9933?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -86,20 +60,27 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-138808?style=for-the-badge&logo=facebook&logoColor=white"/>
+<a href="mailto:harishd3504@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-</p>
+<a href="https://github.com/harishd3504-oss">
+<img src="https://img.shields.io/badge/GitHub-138808?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-<!-- 🇮🇳 FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:138808,50:FFFFFF,100:FF9933&height=140&section=footer"/>
+<!-- 🇮🇳 ANIMATED INDIAN TRICOLOUR FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:138808,50:FFFFFF,100:FF9933&height=150&section=footer"/>
 
-<h3>⭐ Thanks for visiting my profile ⭐</h3>
-<p>🚀 Let's build something secure & impactful together</p>
+### ⭐ Thanks for Visiting My Profile! ⭐
+
+**🚀 Let's Build Something Secure & Impactful Together**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=138808&center=true&vCenter=true&width=500&lines=Code.+Secure.+Innovate.+Repeat."/>
 
 </div>
